@@ -1,0 +1,16 @@
+/**
+ * @name ZoidCord
+ * @author Zoid#6888
+ * @version 1.0.1
+ * @source https://github.com/zoidv1/ZoidCord
+*/
+
+@import url('https://raw.githubusercontent.com/vezcodes/UsiCord/main/css/main.css');
+
+/* remove the slash asterix to make ur "own" theme (remove this line aswell ;))
+:root {
+  --background: #000700 !important;
+  --text-color: #4AEF98 !important;
+  --highlight: var(--text-color) !important;
+}
+*/
